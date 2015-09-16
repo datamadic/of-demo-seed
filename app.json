@@ -1,0 +1,19 @@
+{
+    "devtools_port": 9090,
+    "startup_app": {
+        "name": "demo-frameless-window",
+        "description": "OpenFin POC",
+        "url": "http://localhost:8089/index.html",
+        "uuid": "demo-frameless-window-jarkfm9oa8aor",
+        "autoShow": true
+    },
+    "runtime": {
+        "arguments": "",
+        "version": "alpha-next"
+    },
+    "shortcut": {
+        "company": "OpenFin",
+        "description": "Openfin POC",
+        "name": "demo-frameless-window"
+    }
+}
